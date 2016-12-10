@@ -6,5 +6,5 @@ x = "Hello World!"
 for n in x:
 	print (n)
 
-for n in x:
+for m in x:
 	print (n)
