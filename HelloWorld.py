@@ -5,3 +5,6 @@ x = "Hello World!"
 
 for n in x:
 	print (n)
+
+for n in x:
+	print (n)
